@@ -1,0 +1,17 @@
+* 为一级标题
+** 快捷键
+c-h k
+c-h v
+c-h f
+c-h c-f
+c-h c-v
+c-h c-k
+
+"<s TAB"
+** TODO dd
+*** 为三级标题并以此类推
+c-t c-t to toggle TODO status
+GTD (getting things done)
+** major mode/minor mode
+   c-h m
+** setq/setq-default
